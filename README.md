@@ -40,8 +40,6 @@ Is there a trend of pricing and satisfaction in respect to time?
 As San Diego has a lot of beaches and is associated with warm climates, we predict higher pricings over Summer and lower over Winter. In addition, because people expect more over time, we predict a trend of decreasing overall satisfaction
 Dataset(s)
 
-What data will you use to answer your question? Describe the dataset(s) in terms of number of observations, what kind of features it contains, etc. You must use at least one dataset containing at least approximately 1000 observations (if your data are smaller but you feel they are sufficient, email Prof. Voytek). You are welcome (and in fact recommended) to find multiple datasets! If you do so, describe each one, and briefly explain how you will combine them together.
-
 Dataset Name: Airbnb san diego data
 
 Link to the dataset: http://tomslee.net/airbnb-data-collection-get-the-data
@@ -54,6 +52,7 @@ The dataset contains information about Airbnbs in san diego from 2014 to 2017 in
 The first dataset is more likely to give host based viewpoints while the second gives a little information as to the client perspective.
 
 ## Background and Prior Work
+
 Why is this question of interest, what background information led you to your hypothesis, and why is this important?
 
 Find some relevant prior work, and reference those sources. Even if you think you have a totally novel question, find the most similar prior work that you can and discuss how it relates to your project.
@@ -83,7 +82,7 @@ What do you plan to report? Briefly mention any key visualizations you plan to c
 
 Include a list of packages you expect to use for you project. If you plan to use packages we have not used in class, add a very brief description about them (a few words is sufficient).
 
-Fill in your proposed methods information here: Create graphs on price vs ratings,
+Create graphs on price vs ratings
 
 ### Data Cleaning
 
@@ -99,11 +98,11 @@ We will report any graphs we construct such as price vs. ratings. We will also i
 
 ### Packages 
 
-A ) pandas will be used to process and analyze our data. 
+A) pandas will be used to process and analyze our data. 
 
 B) Numpy will be used to clean up our data and get rid of the NAN values. 
 
-C ) matplotlib - we will use matplotlib to create graphs measuring the rating and price of the Airbnb from 2014-2017.
+C) matplotlib - we will use matplotlib to create graphs measuring the rating and price of the Airbnb from 2014-2017.
 Ethics and Privacy
 
 Briefly acknowledge and address any potential issues of ethics and privacy for the proposed project. In particular:
@@ -128,15 +127,6 @@ There are no other issues related to our topic that can be problematic in terms 
 We will not use data that will violate any privacy concerns.
 
 ## Discussion
-
-Discuss your project, looking forward to what your results might mean, how they fit it in with what is already known, and what problems you may encounter.
-
-In particular:
-
-If your analyses and hypotheses are correct, what will be the contribution of this project to the topic domain?
-Alternatively, what will you do if your methods don't work and/or your hypotheses are wrong?
-What are the potential pitfalls and potential confounds of your data and/or methods that may cause problems, and/or influence your interpretations?
-
 
 If our analyses and hypotheses are correct, we’ll be able to determine the relationship between pricing and satisfaction over the past few years in San Diego. Our data will predict when Airbnb prices in San Diego are cheaper at the expense of lower satisfaction levels, and vice versa. In addition, if certain overall trends discovered show negative impact for Airbnb, our data may provide evidence for a need of call to action. If our method doesn’t produce the results we were expecting, we will re-examine how we dealt with our dataset and the tools we used from python libraries to reach our conclusion. If we are confident in our data and our hypotheses are wrong, then we will conclude there is no relationship between pricing and ratings with respect to time. 
 
