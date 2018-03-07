@@ -66,7 +66,7 @@ The first reference provides data on predicting the most optimal price for Airbn
 
 2) https://github.com/ruchigupta19/Boston-Airbnb-data-analysis 
 
-3)https://www.ftc.gov/system/files/documents/public_comments/2015/06/01912-96334.pdf This reference provides insight to the idea of customers changing over time due to competition. What happens between Uber, Lyft, and taxis, may be happening to Airbnb, TripKey, and hotels/motels.
+3) https://www.ftc.gov/system/files/documents/public_comments/2015/06/01912-96334.pdf This reference provides insight to the idea of customers changing over time due to competition. What happens between Uber, Lyft, and taxis, may be happening to Airbnb, TripKey, and hotels/motels.
 
 ## Proposed Methods
 
