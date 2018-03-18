@@ -1,3 +1,5 @@
+### data pre-processing/data visualization
+
 cogs 108 final project for airbnb
 
 # COGS 108 - Project Proposal
